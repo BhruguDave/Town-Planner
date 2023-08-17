@@ -1,3 +1,6 @@
+# About
+This project aims to answer the multitude of questions regarding the “Demographics and Relationships” of a representative set of 1000 participants from the city of Engagement, Ohio. We have done this using an interactive visual analytics system. The data was collected from 1000 participants over 15 months including the places they visit, their spending, and their purchases. We have illustrated the demographics of the city and relationships between the participants through a group of 6 interlinked visualizations. All the charts together seek to show different dimensions of data such as the distribution of participants across the city along with their wealth and job, the size of all businesses, and information about each business.
+
 # Backend Setup #
 
 ### To set up the backend for this project, follow the steps below: ###
